@@ -1,0 +1,11 @@
+1- in VSCODE open command: pip install -r requirements.txt
+2- .env >> fill with your own bard-google api key (based on the screenshot1 I have attached).
+3- GPT4 is not needed since data is not updated.
+4- Download: Google Chrome Webdriver (this must be same as your current version of the Browser)
+(you can check your browser's version based on the screenshot2 and update the path for the webdriver in the .env file)
+Link: https://chromedriver.chromium.org/downloads
+5- run the application
+Find a contest manually and copy paste the url into the textbox then run and wait.
+first scraping get done! then analysis based on . then AI writes on alertbox his opinon regarding the list.
+[you can find the whole list of players as well as selected players in the csv files created beside the python application]
+
